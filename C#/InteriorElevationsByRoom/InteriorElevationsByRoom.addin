@@ -1,0 +1,12 @@
+﻿<RevitAddIns>
+    <AddIn Type="Command">
+        <Name>InteriorElevationsByRoom</Name>
+        <Assembly>InteriorElevationsByRoom/InteriorElevationsByRoom.dll</Assembly>
+        <AddInId>10D2F990-F951-495D-B6E1-7F042102F92D</AddInId>
+        <FullClassName>InteriorElevationsByRoom.Commands.StartupCommand</FullClassName>
+        <Text>InteriorElevationsByRoom</Text>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail></VendorEmail>
+    </AddIn>
+</RevitAddIns>
